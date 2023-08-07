@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalk008&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswalk008" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jaiswalk008" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswalk008?logo=twitter&style=for-the-badge" alt="jaiswalk008" /></a> </p>
-
-- 🌱 I’m currently learning **react , express**
-
-- 💬 Ask me about **react,nodejs,expressjs,mysql**
-
-- 📫 How to reach me **jaiskaran008@gmail.com**
+<p align="left"> <a href="https://twitter.com/jaiswalk008" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswalk008?logo=twitter&style=for-the-badge" alt="jaiswalk008" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
